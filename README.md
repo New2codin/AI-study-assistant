@@ -1,5 +1,5 @@
 # AI-study-assistant
-I Study Assistant for College Students
+AI Study Assistant for College Students
 Overview
 This project explores how artificial intelligence can support student learning by generating study guides, practice questions, and simplified explanations of academic topics. It demonstrates how AI tools like Claude can be used to improve learning efficiency and accessibility.
 
